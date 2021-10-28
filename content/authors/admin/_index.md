@@ -13,7 +13,7 @@ education:
   - course: Master in History (licentiaat)
     institution: KU Leuven
     year: 1999
-email: tom.truyts@usaintlouis.be
+email: rory.green@usaintlouis.be
 highlight_name: true
 interests:
 - Public finance
@@ -24,24 +24,24 @@ interests:
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
-role: Professor of Public Economics
+role: Teaching Assistant
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=uSMCpcwAAAAJ
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=uSMCpcwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/tomtruyts
+  link: https://github.com/RoryHGreen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tom-truyts-5b5597137
 superuser: true
-title: Tom Truyts
+title: Rory Green
 ---
 
 Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 

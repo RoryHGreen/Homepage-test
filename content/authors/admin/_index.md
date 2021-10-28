@@ -1,18 +1,12 @@
 ---
 education:
   courses:
-  - course: PhD in Economics
-    institution: KU Leuven
-    year: 2008
-  - course: MSc in Economics
-    institution: KU Leuven
-    year: 2003
-  - course: Master in Economics (licentiaat)
-    institution: KU Leuven
-    year: 2002
-  - course: Master in History (licentiaat)
-    institution: KU Leuven
-    year: 1999
+  - course: Master in Models and Methods of Quantitative Economics (EMJMD)
+    institution: Université Sorbonne Paris 1, Ca'Foscari Universita Venezia, Université Catholique de Louvain
+    year: 2019 - 2021
+  - course: B.A. International Economics
+    institution: American University of Paris
+    year: 2015 - 2019
 email: rory.green@usaintlouis.be
 highlight_name: true
 interests:

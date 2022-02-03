@@ -38,5 +38,7 @@ title: Rory Green
 
 Rory Green holds an Erasmus Mundus Joint Masters Degree in Quantitative Economics from Université Paris 1 Panthéon-Sorbonne, UCLouvain, and Ca' Foscari University of Venice. After graduating, Rory began to work at <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a> as a full-time teaching assistant with plans to complete his PhD in Economics. His focus is on Labor Economics with an interest in the gig economy.
 
-Rory Green is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
+Rory Green is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>. Phd incoming
+
+
 

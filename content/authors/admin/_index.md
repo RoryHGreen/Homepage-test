@@ -10,11 +10,9 @@ education:
 email: rory.green@usaintlouis.be
 highlight_name: true
 interests:
-- Public finance
+- Labor Economics & Public Economics
 - Microsimulation modelling
-- Data science
-- Transport, environment, social inequality, fiscal federalism
-- I used to work on game theory, auction theory, economic history
+- Environment, social inequality, monetary policy
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
@@ -38,8 +36,7 @@ superuser: true
 title: Rory Green
 ---
 
-Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
-Tom Truyts coordinates the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+Rory Green holds an Erasmus Mundus Joint Masters Degree in Quantitative Economics from Université Paris 1 Panthéon-Sorbonne, UCLouvain, and Ca' Foscari University of Venice. After graduating, Rory began to work at <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a> as a full-time teaching assistant with plans to complete his PhD in Economics. His focus is on Labor Economics with an interest in the gig economy.
 
-Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
+Rory Green is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
